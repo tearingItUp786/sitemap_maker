@@ -1,0 +1,16 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "A test",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo I am a test written by taran",
+        "start": "node index.js"
+    },
+    "author": "Tb",
+    "license": "ISC",
+    "dependencies": {
+        "sitemap-generator": "^5.0.0",
+        "file-system": "*"
+    }
+}
