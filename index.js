@@ -1,7 +1,7 @@
 var SitemapGenerator = require('sitemap-generator');
 var file = require('file-system');
 var fs = require('fs');
-var userWebsite = 'http://www.sfu.ca/~tbains/html/home.html';
+var userWebsite = 'http://www.brianrhys.com/';
 // create generator
 var generator = new SitemapGenerator(userWebsite);
 
